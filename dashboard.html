@@ -179,7 +179,7 @@ async function pintarBanner(){
   const texto = document.getElementById("banner-texto");
   try{
     const estado = await pedir("/estado_monitor");
-    const modo = estado.modo === "demo" ? " · modo demo" : "";
+    const modo = "";
     if(estado.error){
       banner.classList.add("con-error");
       texto.textContent = `último ciclo con error (${fechaCorta(estado.ultima_actualizacion)})`
