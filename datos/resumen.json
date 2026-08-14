@@ -1,0 +1,19 @@
+{
+  "total_incursiones": 72,
+  "alertas_activas_ALTO": 27,
+  "por_nivel": {
+    "VERIFICAR": 33,
+    "ALTO": 27,
+    "MEDIO": 12
+  },
+  "por_fuente": {
+    "SAR": 70,
+    "GAP": 2
+  },
+  "por_estado": {
+    "Registrada": 72
+  },
+  "ultima_fecha_registrada": "2026-07-06",
+  "dia_pico": "2025-10-20",
+  "detecciones_dia_pico": 19
+}

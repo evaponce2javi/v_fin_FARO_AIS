@@ -1,0 +1,7 @@
+date,lat,lon,zona,dist_puerto_km,persistencia,grupo_dia,puntaje,nivel,razones
+2024-10-18,-33.39,-71.87999725341797,ZEE_interior,32.1,1,2,70,ALTO,"sin señal AIS (radar sí lo detecta): +30 | en ZEE interior, fuera de franja costera: +25 | lejos de puerto (32.1 km): +15"
+2024-10-30,-33.67,-71.79000091552734,ZEE_interior,18.7,1,2,55,MEDIO,"sin señal AIS (radar sí lo detecta): +30 | en ZEE interior, fuera de franja costera: +25"
+2024-10-30,-33.67,-71.81999969482422,ZEE_interior,21.0,1,2,55,MEDIO,"sin señal AIS (radar sí lo detecta): +30 | en ZEE interior, fuera de franja costera: +25"
+2024-10-18,-33.6,-71.66999816894531,dentro_5_millas,5.1,1,2,40,VERIFICAR,sin señal AIS (radar sí lo detecta): +30 | dentro de 5 millas (posible artesanal sin AIS): +10
+2024-10-25,-33.01,-71.58000183105469,dentro_5_millas,5.2,1,2,40,VERIFICAR,sin señal AIS (radar sí lo detecta): +30 | dentro de 5 millas (posible artesanal sin AIS): +10
+2024-10-25,-33.6,-71.66000366210938,dentro_5_millas,4.3,1,2,40,VERIFICAR,sin señal AIS (radar sí lo detecta): +30 | dentro de 5 millas (posible artesanal sin AIS): +10
